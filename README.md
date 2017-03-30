@@ -17,9 +17,9 @@ print M
 
 ##will produce
 
-[[ 0.7071 -0.7071  0.    ]
-[ 0.7071  0.7071  0.    ]
-[ 0.      0.      1.    ]]
+  [[ 0.7071 -0.7071  0.    ]
+  [ 0.7071  0.7071  0.    ]
+  [ 0.      0.      1.    ]]
 
 ##the angles can be expressed also in radians
 M= pb.rotz(45,'rad')

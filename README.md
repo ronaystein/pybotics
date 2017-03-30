@@ -1,14 +1,14 @@
 # pybotics
 This repository contains a set of functions for robotics
 
-#Requirements
+# Requirements
 python 2.7X with numpy and math libraries
 just copy in your working directory
 ############rotation matrices##############
 #example
 rot2: create a 2d rotation  matrix given the angles in radians or degree  
 
-#for example
+# Example
 import pybotics as pb
 import numpy as np
 
@@ -17,9 +17,9 @@ print M
 
 ##will produce
 
-  [[ 0.7071 -0.7071  0.    ] \n
-  [ 0.7071  0.7071  0.    ] \n
-  [ 0.      0.      1.    ]]\n
+  [[ 0.7071 -0.7071  0.    ]__
+  [ 0.7071  0.7071  0.    ]__
+  [ 0.      0.      1.    ]]__
 
 ##the angles can be expressed also in radians
 M= pb.rotz(45,'rad')

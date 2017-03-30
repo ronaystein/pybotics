@@ -15,11 +15,11 @@ import numpy as np
 M= pb.rotz(45,'deg')
 print M
 
-##will produce
+##will produce  
 
-  [[ 0.7071 -0.7071  0.    ]__
-  [ 0.7071  0.7071  0.    ]__
-  [ 0.      0.      1.    ]]__
+  [[ 0.7071 -0.7071  0.    ]  
+  [ 0.7071  0.7071  0.    ]  
+  [ 0.      0.      1.    ]]  
 
 ##the angles can be expressed also in radians
 M= pb.rotz(45,'rad')

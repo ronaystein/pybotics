@@ -11,13 +11,9 @@ F. R. López-Estrada
 G. Valencia-palomo  
 
   
-# ###########rotation matrices##############
-
-#example  
+# example  
 
 rot2: create a 2d rotation  matrix given the angles in radians or degree    
-
-#Example  
 
 import pybotics as pb  
 import numpy as np  

@@ -1,4 +1,4 @@
-# pybotics
+# pybotics  
 This repository contains a set of functions for robotics
 
 # Requirements
@@ -6,6 +6,11 @@ This repository contains a set of functions for robotics
 python 2.7X with numpy and math libraries
 just copy in your working directory
 
+# Authors
+F. R. López-Estrada  
+G. Valencia-palomo  
+
+  
 ############rotation matrices##############
 
 #example
